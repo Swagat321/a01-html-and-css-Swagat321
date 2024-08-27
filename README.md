@@ -85,5 +85,7 @@ Fill out the [attribution attestation form for A1](https://docs.google.com/forms
 Using CSS frameworks like Bootstrap, Bulma, etc. counts as "incorporating code or content found on-line".
 
 Fill out the following information (edit this ReadMe):
+
 First and Last Name: [Your first and last name]
+
 Deployed Website URL: [Your deployed website URL]
