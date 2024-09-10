@@ -1,12 +1,13 @@
 /* General styling for all pages */
 body {
-    font-family: Arial, sans-serif;
+    font-family: sans-serif, Arial;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
 }
 
 header {
+    font-family: 'Courier New', Courier, monospace;
     background-color: #3b3b3b;
     color: white;
     padding: 10px 0;
@@ -30,7 +31,14 @@ section {
     border: 1px solid #ddd;
     width: 80%;
     margin: auto;
+    
 }
+
+.black {
+    background-color: black;
+    color: white;
+}
+
 
 img {
     display: block;
@@ -66,4 +74,22 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+
+#main-header {
+    background-color: #003366;
+    padding: 20px;
+}
+
+#favorite-part{
+    background-color: #f4f4f4;
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid black;
+}
+
+.image-wrap {
+    float: left; 
+    margin: 0 15px 15px 0; 
+    width: 300px; 
 }
